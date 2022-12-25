@@ -521,6 +521,14 @@ fieldset {
    
     margin:5px;
 }
+
+@media (max-width:500px)
+{
+    .card{
+   
+        margin:15px;
+    }
+}
 .projectlink{
     background-color: rgba(254, 86, 26,0.8);
     border-color:rgba(254, 86, 26,0.8);
